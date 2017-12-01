@@ -10,7 +10,7 @@ InfobarColor=0,0,0
 Theme=Red
 LostSetTime=108
 LostTerminalInput=0
-LostCurTime=39
+LostCurTime=37
 LostFailureTime=1
 LostLockdown=0
 
